@@ -5,12 +5,16 @@
 | Property    | Value  |
 | ----------- | ------ |
 | Title       | CR0001 |
+| Category    |        |
 | Description |        |
 | Date        |        |
 | Author      |        |
+| Version     |        |
 
 
 ## Usage of JSON GENERATE is not allowed (CR0001)
+
+### CAST Definition
 
 |          |                |
 | -------- | -------------- |

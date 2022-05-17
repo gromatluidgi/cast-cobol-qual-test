@@ -24,7 +24,6 @@ SAST tools are based on a parsing engine, which **reads and traverse** software 
 According to the target of the used analyzer, we can defines primary aims for obtain various metrics.
 
 ### Code Quality
-https://www.perforce.com/blog/sca/what-code-quality-overview-how-improve-code-quality
 
 Talking about code quality generaly refer to a set of practices to follow for produces **high quality code** and **identify potential smells** during development. What's "good code" or "bad code", is subjective and may differ in organizations.
 

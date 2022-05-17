@@ -11,6 +11,7 @@
 
 ## References
 
+- Starting kit for quality rules writing: http://cast-projects.github.io/Extension-SDK/doc/writing_quality_rule.html#starter-kit
 - CAST AIP Mainframe Extension Documentation: https://doc.castsoftware.com/display/TECHNOS/Mainframe+-+Qualification
 - Mainframe: http://cast-projects.github.io/Extension-SDK/doc/mainframe.html
 - AIP Core COBOL rules: https://technologies.castsoftware.com/rules?sec=t_-4&ref=||
@@ -68,3 +69,8 @@ class TestRuleName(mainframe.Extension):
 AIP rules detection engine use a kind of visitor mecanism which trigger various events according to the current parsed line of code.
 
 **See:** http://cast-projects.github.io/Extension-SDK/doc/mainframe.html#events
+
+## Integration
+
+### MasterFiles
+

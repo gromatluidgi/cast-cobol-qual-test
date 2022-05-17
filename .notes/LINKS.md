@@ -1,6 +1,6 @@
 ## Guideline
 
-Net framework: https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/
+- Net framework: https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/
 
 ## Code Analysis
 
@@ -11,6 +11,7 @@ Net framework: https://docs.microsoft.com/en-us/dotnet/standard/design-guideline
 
 - https://rules.sonarsource.com/cobol/RSPEC-1589
 - https://github.com/MicrosoftDocs/visualstudio-docs/blob/main/docs/code-quality/ca1800.md
+- https://eslint.org/docs/rules/array-callback-return
 
 ## COBOL
 
@@ -23,6 +24,12 @@ Net framework: https://docs.microsoft.com/en-us/dotnet/standard/design-guideline
 ### Papers
 
 - https://www.cmg.org/wp-content/uploads/2018/01/COBOL-V6.1-Whats-New.pdf
+
+## PYTHON
+
+### Code Analysis
+
+- https://github.com/oppia/oppia/wiki/Custom-Pylint-checks#introduction
 
 ## Quality Standard
 
